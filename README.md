@@ -1,2 +1,1 @@
-# UniHack-CeascaVision
-.
+Built on a Raspberry Pi 5 and stabilized by a custom 3D-printed rig, O.C.R.A. removes the need for manual scanning. The system detects when a document is present, captures it, and uses LLMs to instantly generate an intelligent, conversational assistant.
