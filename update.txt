@@ -1,0 +1,14 @@
+{
+    "totalPeople": 25,
+    "todayPeople": 10,
+    "categories": {
+        "LINIA 1: Oferta": 2,
+        "LINIA": 1,
+        "Etichet\u0103 produs": 1,
+        "Factura": 2,
+        "Diverse": 12,
+        "Oferte": 2,
+        "Diverse.": 3,
+        "[LINIA 1] Diverse.": 2
+    }
+}

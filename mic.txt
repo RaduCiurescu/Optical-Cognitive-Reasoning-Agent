@@ -1,0 +1,5 @@
+Sennheiser SC260 USB Microphone Test
+Result: SUCCESS
+Text: my name is
+Microphone index: 0
+Energy threshold: 2480.66388463887
